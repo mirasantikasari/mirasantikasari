@@ -1,16 +1,17 @@
-<h1 align="center">Hi, I'm [Nama Kamu]! 👋</h1>
+<h1 align="center">Hi, I'm Mira Santika Sari! 👋</h1>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mirasantikasari&theme=gruvbox" alt="GitHub Streak" />
 </p>
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **Keuanganku, Jurnalku, and MyTryout**
 - 🌱 I’m currently learning **Advanced API & Microservices Architecture**
 - 💬 Ask me about **Backend Development, Full-Stack Apps, and API Design**
-- 📫 How to reach me: [Email](mailto:your-email@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 How to reach me: [Email](mailto:mirasantika1539@gmail.com) | [LinkedIn](https://linkedin.com/in/mira-santika-sari)
 
 ## 🛠 Tech Stack
 ### Backend:
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Lumen](https://img.shields.io/badge/Lumen-FF5722?style=for-the-badge&logo=laravel&logoColor=white)
 ![Slim Framework](https://img.shields.io/badge/Slim-74C043?style=for-the-badge&logo=slim&logoColor=white)
@@ -31,7 +32,6 @@
 
 ### Desktop:
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![Nuxtron](https://img.shields.io/badge/Nuxtron-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
 
 ### Database:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -39,16 +39,11 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
 ## 📌 Featured Projects
-- 🚀 [Keuanganku](https://github.com/your-username/keuanganku) - A financial management app.
-- 📝 [Jurnalku](https://github.com/your-username/jurnalku) - A personal journal and note-taking app.
-- 🎓 [MyTryout](https://github.com/your-username/mytryout) - An online tryout and exam simulation platform.
+- 🚀 [Keuanganku](https://github.com/mirasantikasari/keuanganku) - A financial management app.
+- 📝 [Jurnalku](https://github.com/mirasantikasari/jurnalku) - A personal journal, todo list and note-taking app.
+- 🎓 [MyTryout](https://github.com/mirasantikasari/mytryout) - An online tryout and exam simulation platform.
 
 ## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mira-santika-sari)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mira.santika.sari)
