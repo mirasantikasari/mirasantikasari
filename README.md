@@ -14,7 +14,7 @@
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Lumen](https://img.shields.io/badge/Lumen-FF5722?style=for-the-badge&logo=laravel&logoColor=white)
-![Slim Framework](https://img.shields.io/badge/Slim-74C043?style=for-the-badge&logo=slim&logoColor=white)
+![Slim Framework](https://img.shields.io/badge/slim%20php-white?style=for-the-badge&logo=php)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
