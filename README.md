@@ -43,7 +43,9 @@
 - 🚀 [Keuanganku](https://github.com/mirasantikasari/keuanganku) - A financial management app.
 - 📝 [Jurnalku](https://github.com/mirasantikasari/jurnalku) - A personal journal, todo list and note-taking app.
 - 🎓 [MyTryout](https://github.com/mirasantikasari/mytryout) - An online tryout and exam simulation platform.
+- 🩺 [Careku](https://github.com/mirasantikasari/careku) - A personal health companion app with daily tracking (mood, pain, hydration), health calendar, profile/setup, and an AI chat powered by RAG for personalized insights and tips.
 
 ## 🤝 Connect With Me
+[![Portofolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge)](https://mirasantikasari.pages.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mira-santika-sari)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mira.santika.sari)
