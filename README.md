@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer · Backend Explorer · Software Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=22&duration=3000&pause=1000&color=F5A9C7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%8C%B7;Backend+Explorer+%F0%9F%92%BB;Building+useful+things+with+code+%E2%9C%A8;Coffee+%2B+Code+%2B+Curiosity+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=22&duration=3000&pause=1000&color=F5A9C7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%8C%B7;Backend+Developer+%F0%9F%92%BB;Building+useful+things+with+code+%E2%9C%A8;Ideas+%2B+Code+%2B+Curiosity+%F0%9F%8E%80;Someday%2C+I'll+build+my+own+robot+friend+%F0%9F%A4%96" alt="Typing SVG" />
 
 <br>
 
@@ -13,7 +13,7 @@
 
 <br><br>
 
-*˚₊‧꒰ა turning ideas, coffee, and curiosity into code ໒꒱ ‧₊˚*
+˚₊‧꒰ა turning ideas, curiosity, and imagination into code ໒꒱ ‧₊˚
 
 </div>
 
@@ -32,16 +32,22 @@ currently_building:
   - "🩺 Careku"
 
 currently_learning:
-  - "Advanced API Design"
-  - "Microservices Architecture"
-  - "Backend Architecture"
+  - "🤖 Robotics"
+  - "🔧 Embedded Systems"
+  - "👁️ Computer Vision"
+  - "🧠 AI for Robotics"
 
 interested_in:
+  - "Frontend Development"
   - "Backend Development"
-  - "Full-Stack Development"
-  - "API Design"
-  - "Database Architecture"
+  - "Mobile App Development"
+  - "Desktop App Development"
+  - "API & System Architecture"
   - "AI & RAG"
+  - "IoT & Robotics"
+
+dream_project:
+  - "🤖 Build my own robot companion ♡"
 
 motto: "build → learn → improve → repeat ♡"
 ```
@@ -60,63 +66,64 @@ motto: "build → learn → improve → repeat ♡"
 
 ### ˚₊‧ Technologies I love working with ‧₊˚
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,dotnet,js,ts,vue,nuxt,react,nextjs,flutter,electron,mysql,postgres,firebase,docker,git,github,postman&perline=10" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,bun,python,dotnet,js,ts,vue,nuxt,react,nextjs,angular,flutter,electron,mysql,postgres,firebase,arduino,docker,git,github,postman,cloudflare&perline=12" />
 
 <br><br>
 
-<sub>♡ backend • frontend • mobile • database • tools ♡</sub>
+<sub>♡ backend • frontend • mobile • desktop • database • IoT • tools ♡</sub>
 
 </div>
 
 <br>
 
-<table align="center">
+<table>
 <tr>
-<td align="center" width="50%">
+
+<td width="50%" align="center" valign="top">
 
 ### 🌷 Backend
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,dotnet&perline=5" />
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,bun,python,dotnet&perline=6" />
 
 <br><br>
 
-`CodeIgniter` · `Laravel` · `Lumen`  
-`Slim` · `Fastify` · `Express`  
-`Flask` · `ASP.NET`
+`PHP` · `CodeIgniter` · `Laravel` · `Lumen`
+
+`Slim` · `Node.js` · `Express` · `Fastify`
+
+`Bun` · `Elysia` · `Hono`
+
+`Python` · `Flask` · `ASP.NET`
 
 <br>
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" align="center" valign="top">
 
 ### 🎀 Frontend
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,react,nextjs&perline=6" />
+<img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,react,nextjs,angular&perline=7" />
 
 <br><br>
 
-`JavaScript` · `TypeScript`  
-`Vue.js` · `Nuxt.js`  
-`React` · `Next.js`
+`JavaScript` · `TypeScript`
+
+`Vue.js` · `Nuxt.js`
+
+`React` · `Next.js` · `Angular`
 
 <br>
 
 </td>
+
 </tr>
 
 <tr>
-<td align="center" width="50%">
+
+<td width="50%" align="center" valign="top">
 
 ### 🧁 Mobile & Desktop
-
-<br>
 
 <img src="https://skillicons.dev/icons?i=react,flutter,electron&perline=3" />
 
@@ -128,40 +135,58 @@ motto: "build → learn → improve → repeat ♡"
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" align="center" valign="top">
 
 ### 🍓 Database
-
-<br>
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase&perline=3" />
 
 <br><br>
 
-`MySQL` · `PostgreSQL`  
+`MySQL` · `PostgreSQL`
+
 `Firebase` · `Firestore`
 
 <br>
 
 </td>
+
 </tr>
 
 <tr>
-<td align="center" colspan="2">
 
-### 🧸 Development Tools
+<td width="50%" align="center" valign="top">
+
+### 🤖 IoT & Embedded
+
+<img src="https://skillicons.dev/icons?i=arduino,c,cpp&perline=3" />
+
+<br><br>
+
+`Arduino` · `IoT`
+
+`Embedded Systems` · `Sensors`
 
 <br>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### 🧸 Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,cloudflare&perline=5" />
 
 <br><br>
 
-`Git` · `GitHub` · `Docker` · `Postman` · `Cloudflare`
+`Git` · `GitHub` · `Docker`
+
+`Postman` · `Cloudflare`
 
 <br>
 
 </td>
+
 </tr>
 </table>
 
@@ -169,13 +194,47 @@ motto: "build → learn → improve → repeat ♡"
 
 <div align="center">
 
-୨୧ ─────────────────── ୨୧
+୨୧ ───────────────────────────── ୨୧
 
-**currently exploring**
+### ♡ My Development Ecosystem ♡
 
-`Advanced APIs`　♡　`Microservices`　♡　`RAG`　♡　`Backend Architecture`
+`Backend`　♡　`Frontend`　♡　`Mobile`　♡　`Desktop`
 
-୨୧ ─────────────────── ୨୧
+`API`　♡　`Microservices`　♡　`AI / RAG`　♡　`IoT`
+
+୨୧ ───────────────────────────── ୨୧
+
+</div>
+
+---
+
+## 🌟 Goals & Dreams
+
+<div align="center">
+
+### 🤖 Someday, I want to build my own robot companion ♡
+
+A little robot friend that can **see, listen, talk, remember, learn, and interact with the real world.**
+
+<br>
+
+`🤖 Robotics`　♡　`🧠 AI / RAG`　♡　`👁️ Computer Vision`
+
+`🎙️ Voice AI`　♡　`🌐 IoT`　♡　`🔧 Embedded Systems`
+
+<br>
+
+> *not just a chatbot — a little friend with a body.* 🌷
+
+<br>
+
+**Current quest:**
+
+`Software` → `AI` → `IoT` → `Robotics` → **🤖 My Own Robot Friend**
+
+<br>
+
+˚₊‧꒰ა one commit closer to my robot friend ໒꒱ ‧₊˚
 
 </div>
 
@@ -248,7 +307,7 @@ Daily health tracking with an AI assistant powered by **Retrieval-Augmented Gene
 | 🩺 | Developing **Careku + AI RAG** |
 | 📚 | Learning **Advanced API & Microservices** |
 | 🧠 | Exploring **Backend Architecture** |
-| ☕ | Turning coffee into code |
+| 🌷 | Turning ideas into code |
 | 🐛 | Creating bugs... then fixing them |
 
 <div align="center">
